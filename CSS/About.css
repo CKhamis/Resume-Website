@@ -1,0 +1,16 @@
+#aboutMe{
+	margin: 10px auto 10px auto;
+    width: 700px;
+	height:400px;
+	background-color:#DCDCDC;
+}
+#aboutMe article h4{
+	margin-top:10px;
+	margin-bottom: 0px;
+}
+#aboutMe article p, #aboutMe article a{
+	margin-top:2px;
+	color:black;
+	text-decoration: none;
+	text-decoration: none;
+}

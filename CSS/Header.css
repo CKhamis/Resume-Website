@@ -1,0 +1,24 @@
+nav{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+#DesktopNav nav li{
+  float:right;
+  padding:0px 10px 0 10px;
+  height:100%;
+}
+.Link:hover{
+  background-color: #196F3D;
+}
+#DesktopNav nav li a{
+  color:white;
+  line-height: 50px;
+  font-size: 18px;
+  text-decoration: none;
+}
+#HeaderLogo{
+	height:30px;
+	padding:5px;
+	border-radius: 0px;
+}
